@@ -44,6 +44,18 @@ print(is_cold , "&" , is_hot)
 
 #three types variable was completely showed
 
+#iput
+# niw i m writting code input
+
+input("this is an input. you can write here")
+
+user_name = input("enter your user name")
+user_password = input("enter your password")
+user_age = input("Inter your age")
+age_int = int(user_age)
+
+
+
 #now i'm going to learn decition/ condition making
 #in_ proggraming its call if else 
 
